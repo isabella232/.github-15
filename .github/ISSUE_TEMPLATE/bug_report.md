@@ -29,9 +29,11 @@ If applicable, add screenshots and/or logs to help explain your problem.
 ### Environment
 
  - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
- - Device: [e.g. iPhone6]
+ - Node.js version: [e.g. v12.17.0]
+ - NPM version: [e.g. 6.14.4]
+ - Browser (if applicable): [e.g. chrome, safari]
+ - Browser version (if applicable): [e.g. 22]
+ - Device (if applicable): [e.g. iPhone6]
 
 ### Additional context
 
